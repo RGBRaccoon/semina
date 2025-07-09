@@ -262,3 +262,16 @@ RF가 크다는 것은 특정 뉴런이 더 넓은 문맥 정보(주변 배경, 
 Receptive Field는 CNN이 이미지의 공간적, 계층적 특성을 효과적으로 학습하고 효율적인 특징 추출을 가능하게 하는 핵심적인 개념입니다.
 
 이제 Receptive Field에 대한 설명은 충분할까요? 다음으로 ResNet 관련 핵심 개념에 대해 설명해 드릴까요?
+
+
+
+### Residual Connection(잔차 연결)
+
+### Xavier Initialization (가중치 초기화)
+
+
+### Batch Normalization (배치 정규화)
+
+
+### Instance Normalization (인스턴스 정규화)
+ 
